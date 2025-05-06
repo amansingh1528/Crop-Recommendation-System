@@ -44,7 +44,7 @@ Crop-Recommendation-System/
 
 2. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit 
    ```
 
    Or manually install required packages:
