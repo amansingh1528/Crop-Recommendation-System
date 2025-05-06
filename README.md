@@ -62,11 +62,6 @@ Crop-Recommendation-System/
 
 5. Open the provided URL (usually `http://localhost:8501`) in your browser to use the app.
 
----
-
-## 📷 Screenshots
-
-*(Add screenshots of your app's Home page and Recommendation page here)*
 
 ---
 
